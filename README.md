@@ -1,26 +1,25 @@
-# Music Player
+# Nova Music
 
-A simple and modern music listening application built with HTML, CSS, and JavaScript.
+Nova Music is a modern web-based music application with a clean interface designed for exploring and playing music.
 
 ## Features
 
-- Play and pause music
-- Previous and next track controls
-- Music progress bar
-- Volume control
-- Song title and artist information
-- Modern and responsive interface
-- Simple and user-friendly design
+* Music-focused interface
+* Track browsing
+* Play controls
+* Responsive layout
+* Modern user experience
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
-## Getting Started
+## Purpose
 
-### 1. Clone the repository
+This project was created to practice multimedia features, JavaScript interactions, and modern frontend development.
 
-```bash
-git clone YOUR_REPOSITORY_URL
+## License
+
+This project is open source and available under the MIT License.
