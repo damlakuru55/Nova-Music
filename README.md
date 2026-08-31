@@ -16,6 +16,10 @@ Nova Music is a modern web-based music application with a clean interface design
 
 Playback controls should provide visible feedback for play, pause, loading, and unavailable states. Track information should remain readable across screen sizes.
 
+## Performance Notes
+
+Keep the player interface lightweight and avoid unnecessary work during playback. Controls should remain responsive while media is loading or changing tracks.
+
 ## Technologies
 
 * HTML5
@@ -24,7 +28,7 @@ Playback controls should provide visible feedback for play, pause, loading, and 
 
 ## Purpose
 
-This project was created to practice multimedia features, JavaScript interactions, responsive layouts, and modern frontend development.
+This project was created to practice multimedia features, JavaScript interactions, responsive layouts, performance, and modern frontend development.
 
 ## Accessibility
 
