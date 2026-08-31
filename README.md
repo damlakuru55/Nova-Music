@@ -1,6 +1,6 @@
 # Nova Music
 
-Nova Music is a modern web-based music application with a clean interface designed for exploring and playing music.
+A modern web-based music application with a clean interface for exploring and playing music.
 
 ## Features
 
@@ -46,3 +46,7 @@ This project is open source and available under the MIT License.
 ## Development Notes
 
 The interface keeps state changes explicit and predictable. User input should be validated before processing, successful actions should update visible state immediately, and invalid states should provide clear feedback.
+
+## Release Check
+
+Playback controls and track information should remain synchronized throughout loading, playing, pausing, and unavailable states.
