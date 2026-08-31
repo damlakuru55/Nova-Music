@@ -20,6 +20,14 @@ Playback controls should provide visible feedback for play, pause, loading, and 
 
 Keep the player interface lightweight and avoid unnecessary work during playback. Controls should remain responsive while media is loading or changing tracks.
 
+## Accessibility
+
+Player controls should use descriptive labels, visible focus states, and keyboard-accessible actions.
+
+## Media State Handling
+
+The player should distinguish between loading, ready, playing, paused, and unavailable media states so users can understand what is happening without guessing.
+
 ## Technologies
 
 * HTML5
@@ -29,10 +37,6 @@ Keep the player interface lightweight and avoid unnecessary work during playback
 ## Purpose
 
 This project was created to practice multimedia features, JavaScript interactions, responsive layouts, performance, and modern frontend development.
-
-## Accessibility
-
-Player controls should use descriptive labels, visible focus states, and keyboard-accessible actions.
 
 ## License
 
