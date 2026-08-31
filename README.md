@@ -53,3 +53,7 @@ Playback controls and track information should remain synchronized throughout lo
 ## Final Stability Check
 
 Repeated playback state changes should keep the current track information and player controls synchronized without stale status messages.
+
+## Maintenance Notes
+
+Keep track metadata and playback state responsibilities separated so future player features can be added without coupling unrelated UI logic.
