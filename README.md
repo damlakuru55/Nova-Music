@@ -57,3 +57,4 @@ Repeated playback state changes should keep the current track information and pl
 ## Maintenance Notes
 
 Keep track metadata and playback state responsibilities separated so future player features can be added without coupling unrelated UI logic.
+ 
